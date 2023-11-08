@@ -1,0 +1,11 @@
+{
+	"name": "SE_Early_Logistics",
+	"version": "0.0.2",
+	"title": "Space Exploration Easier Early/Midgame Important Research",
+	"author": "TailRed",
+	"contact": "someguy@someguy.com",
+	"homepage": "https://github.com/callummance/SE_Early_Logistics",
+	"description": "Space exploration locks away a few reletively low tech researches until after you've created multiple interplanetary bases. This mod rebalances the some of the important early-mid game research so that it's easier to get which makes early game SE less of a drag for a second playthrough. Based on Xeraster's `Space Exploration Easier Early/Midgame Important Research` mod, but with more options and fixed for Krastorio2.",
+	"dependencies": ["base", "space-exploration", "? Krastorio2", "? True-Nukes", "? Aircraft"],
+	"factorio_version": "1.1"
+}
